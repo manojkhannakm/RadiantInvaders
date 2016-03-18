@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 23
+    }
+
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+    }
+}
+
+dependencies {
+    compile files('libs/httpcore-4.4.3.jar')
+    compile files('libs/httpclient-4.5.1.jar')
+}
