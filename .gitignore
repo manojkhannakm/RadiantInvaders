@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/appengine,android,java,gradle,intellij
+# Created by https://www.gitignore.io/api/appengine,android,java,gradle,intellij,windows,linux
 
 ### AppEngine ###
 # Google App Engine generated folder
@@ -128,6 +128,41 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
 
 ### Project ###
 # Preview videos
