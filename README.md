@@ -6,7 +6,7 @@ An Android shooting game developed using [AndEngine](http://www.andengine.org) t
 
 ### Preview
 
-[<img src="/preview/preview.png" width=360>](https://www.youtube.com/watch?v=EoIpdWn8WZQ)
+[<img src="/preview/preview.png" width=640>](https://www.youtube.com/watch?v=EoIpdWn8WZQ)
 
 ### Download
 
