@@ -1,4 +1,4 @@
-# RadiantInvaders
+# Radiant Invaders
 
 ### Introduction
 

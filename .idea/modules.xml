@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AndEngine/AndEngine.iml" filepath="$PROJECT_DIR$/AndEngine/AndEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndEngineDebugDrawExtension/AndEngineDebugDrawExtension.iml" filepath="$PROJECT_DIR$/AndEngineDebugDrawExtension/AndEngineDebugDrawExtension.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndEnginePhysicsBox2DExtension/AndEnginePhysicsBox2DExtension.iml" filepath="$PROJECT_DIR$/AndEnginePhysicsBox2DExtension/AndEnginePhysicsBox2DExtension.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RadiantInvaders.iml" filepath="$PROJECT_DIR$/RadiantInvaders.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radiant-invaders.iml" filepath="$PROJECT_DIR$/radiant-invaders.iml" />
     </modules>
   </component>
 </project>
